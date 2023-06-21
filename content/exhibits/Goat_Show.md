@@ -12,7 +12,7 @@ Description: Exibit information and entry rules
 1. Mail entries to: Janelle Ashley, 33 North Main Street, Whiting,
 VT 05778, Tel. 989-9528. 
 
-1. Entries must be returned by Friday, July 30, 2019.
+1. Entries must be returned by Friday, July 30, 2022. Enter each class online at https://sites.google.com/view/acffdgoatshow/home
 
 1. Exhibitors must provide their own feed and bedding. 
 Sawdust & straw is provided.
@@ -21,7 +21,7 @@ entries between noon and 9:00 p.m. on Monday before the fair. After check in, on
 scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday. All animals must be removed by 10:00 a.m. Sunday after the fair.
 Exhibitors are responsible for taking down and stacking their own pens and cleaning their
 area.
-1. Barn Meeting for all exhibitors Tuesday, August 6th at 6:00 p.m. in the Show Tent.
+1. Barn Meeting for all exhibitors Tuesday, August 8th at 6:00 p.m. in the Show Tent.
 
 ### HEALTH REGULATIONS: 
 1. All goats must have health certificates and MUST be free of visual
@@ -30,7 +30,7 @@ sheep deemed to be unhealthy by the Judge or Show Superintendent will be barred 
 exhibition and showing. All goats must be vaccinated for rabies thirty (30) days prior to
 Monday before the fair and must have a certificate to verify the vaccination. All goats must have
 scrapie ear tag.
-1. The show will take place on Saturday at 9:00am. Both youth and open
+1. The show will take place on Wednesday, August 9, 2023 at 12noon. Both youth and open
 exhibitors will be judged at the same time, awarded ribbons by place then open exhibitors
 will leave the ring and 4-H and other youth exhibitors will be awarded ribbons according
 to the danish system.
