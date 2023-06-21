@@ -99,34 +99,32 @@ passes by request only.
 Field Days will provide the base bedding pack. Exhibitors may bring their own additional
 bedding or will be able to buy shavings at the fair. 
 
-## CLASSES
+### CLASSES
 Limit of one group per exhibitor in each group classes.
+1.	Spring Heifer March -May 10, 2023
+2.	Winter Heifer December 2022-February 28, 2023
+3.	Fall Heifer September -November 2022
+4.	Summer Yearling June-August 2022
+5.	Spring Yearling March-May 2022
+6.	Winter Yearling December 2021-February 2022
+7.	Fall Yearling September-November 2021
+8.	Junior Best 3
+MILKING CLASSES NEED TO HAVE CALVED
+9.	Milking Yearling/Summer Junior 2 June 2021-November 2021
+10.	Jr 2 March-May 2021
+11.	Sr 2 September 2020-February 2021
+12.	Jr 3 March-August 2020
+13.	Sr 3 September 2019-February 2020
+14.	4-year-old September 2018-August 2019
+15.	5-year-old September 2017-August 2018
+16.	Aged Cow Prior to September 2017
+17.	Senior Best 3
+18.	Produce of dam
+19.	Dam & Daughter
+Premiums
+•	Classes 1-7: $16, $14, $12, $10, $8, $6
+•	Classes 8-16: $35, $30, $25, $20, $15, $10
 
-1. Spring Heifer Calf born Feb 28, 2019-May 15, 2019
-2. Winter Heifer Calf born Dec. 1, 2018-Feb. 28, 2019
-3. Fall Heifer Calf born Sept. 1, 2018-Nov. 30, 2018
-4. Summer Yearling Heifer born June 1, 2018-Aug. 1, 2018
-5. Spring Yearling Heifer born Mar. 1, 2018-May 31, 2018
-6. Winter Yearling born Dec. 1, 2017-Feb. 28, 2018
-7. Fall Yearling born Sept. 1, 2017-Nov. 30, 2017
-8. Junior Champion
-9. Reserve Junior Champion
-10. Junior Best Three
-11. Junior Two-Year-Old Cow (must have freshened), born Mar. 1, 2016-Aug. 31, 2017
-12. Senior Two-Year-Old Cow (must have freshened), born Sept. 1, 2015-Feb. 29, 2017
-13. Junior Three-Year-Old Cow, born Mar. 1, 2016-Aug. 31, 2016
-14. Senior Three-Year-Old, born Sept. 1, 2015-Feb. 28, 2016
-15. Four-Year-Old Cow, born Sept. 1, 2014-Aug. 31, 2015
-16. Five-Year-Old Cow, born Sept. 1, 2013-Aug. 31, 2014
-17. Six-Year-Old and Older Cow born before Sept. 1, 2013
-18. Three & Four Year Old Dry Cow born Sept. 1, 2014-Aug. 31, 2016
-19. Five-Year-Old & Older Dry Cow born before Sept. 1, 2014
-20. Senior Champion Female
-21. Reserve Senior Champion Female
-22. Grand Champion Female
-23. Reserve Grand Champion Female
-24. Best Three Females
-25. Produce of Dam
 
 
 
