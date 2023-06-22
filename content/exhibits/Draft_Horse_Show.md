@@ -2,6 +2,41 @@
 Title: DRAFT HORSE SHOW
 Description: Exibit information and entry rules for the Draft Horse Show
 */
+Addison County Fair & Field Days Draft Horse Show
+Dear Draft Horse Exhibitors,
+• We are pleased to share some changes for our 2023 draft show and hope our dates of
+Friday, August 11 – Saturday, August 12 will allow us to fill all stalls. We have a total of
+156 stalls available.
+• We will welcome as our 2023 judge: Mike Lizotter, Saco, Maine
+• We will again be a North American Classic Six qualifying show. We offer classes for the
+Six Horse Hitch, Classic Cart and Youth Cart.
+• We require a stall deposit of $ 25.00 per stall with $ 15.00 returned if it is cleaned when
+you leave. It sometimes takes 30 to 40 minutes with a bucket tractor to clean each stall
+and finding folks to clean them for the refund is next to impossible and we have between
+20 to 40 stalls that we clean.
+• VERY IMPORTANT - camping forms need to be in by the deadline of August 1.
+(Not mailed on August 1 but in our hands by August 1) This is to help us make sure
+there is enough room on the camping bars. It is sometimes a very tight squeeze with last
+minute camping space needed. Length of camper is important as not all sites are the
+same length. Again, we will keep a waiting list if spaces fill up.
+• The fair provides the 4-H kids with sawdust for their shows, the draft horse exhibitors are
+welcome to use any remaining sawdust. Sometimes we run out of the sawdust and have
+bagged shavings available for a fee. So if you want to purchase bagged shavings ahead
+of time, they are $6.00 per bag and the fair would deliver pre-orders to the horse area
+(not to the stalls) before the show, to be picked up by the exhibitor on Thursday
+evening before 10:00 P.M. Additional shavings are located at the dairy barns, so on
+Friday and Saturday you would have to get them yourself if not ordered ahead of time.
+We look forward to seeing you in August at our draft show. We encourage early entries
+because we are limited on stalls and camping spots.
+• Please, please, when filling out the entry form complete all information. If a halter
+horse or single horse hitch class they go in the top part, if a team hitch class, they go in
+the bottom part with the names of each driver for the class if different. Look for the
+class numbers as to what is needed for information.
+"When making your travel plans we recommend that you do not use Route 125 between Route 100 in
+Hancock and Route 7 in East Middlebury to travel to the show. This section of Route 125 is not
+recommended for trailer trucks."
+Kathy Nisun, Director
+Kathy Kennett, Secretary
 
 
 # DRAFT HORSE SHOW
@@ -10,9 +45,9 @@ Description: Exibit information and entry rules for the Draft Horse Show
 
 Friday, 9:30 am. — Saturday, 9:30 am.
 
-JUDGE: Dan Nisley, East Kellogg, Iowa
+JUDGE: Mike Lizotte, Saco, Maine
 
-SUPERINTENDENT: Kathy Nisun, 349-8971
+Director: Kathy Nisun, 349-8971
 
 ANNOUNCER: John Hutton
 
@@ -34,7 +69,7 @@ a.m. on Saturday.
 Six ribbons will be awarded in each class. 
 Stalls will be available after 7 p.m. Thursday. 
 
-Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $5.00 per bag.
+Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $6.00 per bag.
 
 Entry Fees are $5.00 per class except as noted. Post entries are double entry fees. No refunds
 without a vet certificate. Pre-entries due by August 1.
@@ -474,6 +509,9 @@ and classes 31 and 32.
     Entry Fee: $5.00
 
     Prizes: $50, $40, $25, $20, $10, $5
+   The winner to receive the Mathew Deering Memorial Award.
+
+    
 
 
 ## AWARDS
@@ -499,6 +537,10 @@ This award is given by the family of Bernard Moeykens from Tari-Wey Stables in S
 VT. This award is given in recognition of Bernard, a life long Vermont Horseman, who
 had devoted many years to breeding and raising quality Belgian Draft Horses. He
 especially appreciated a high caliber filly.
+1. ### THE MATHEW DEERING MEMORIAL AWARD
+This award is given to the winner of the Two Horse Hitch Show Division Class. Matt was a draft horse
+enthusiast and teamster for Donnell Belgians since 2006. Matt was a friend to all and proudly showed at
+Addison County Fair and Field Days for 16 years.
 1. ### OUTSTANDING BELGIAN/PERCHERON/CLYDE/SHIRE & FARM YOUTH
 Awarded to the high point youth in each age group.
 
