@@ -512,7 +512,8 @@ Addison County Fair and Field Days for 16 years.
 Awarded to the high point youth in each age group.
 
 
-Dear Draft Horse Exhibitors,
+### Dear Draft Horse Exhibitors,
+
 • We are pleased to share some changes for our 2023 draft show and hope our dates of
 Friday, August 11 – Saturday, August 12 will allow us to fill all stalls. We have a total of
 156 stalls available.
