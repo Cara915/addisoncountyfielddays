@@ -4,16 +4,21 @@ Description: Exibit information and entry rules for the Addison County Fair And 
 */
 #  DEMOLITION DERBY
 
-G.STONE MOTORS/ADDISON COUNTY FAIR & FIELD DAYS
-DEMOLITION DERBY
+### G.STONE MOTORS/ADDISON COUNTY FAIR & FIELD DAYS DEMOLITION DERBY
 ANY QUESTIONS CALL DICK THERRIEN 802-274-8823 OR BOB WRIGHT 603-631-1833 ABSOLUTELY NO CALLS BEFORE 8AM OR AFTER 8PM
+
 Tuesday, August 8 starting at 7:00 pm. Wednesday, August 9 starting at 7:00 pm.
-Tuesday - 6- & 8-CYLINDER DEMOLITION DERBY & 4 CYLINDER & MlNl-VAN DEMOLITION DERBY Wednesday - 6 & 8 CYLINDER, 4 CYLINDER & MlNl-VAN & TRUCK DEMOLITION DERBY EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
+
+Tuesday - 6- & 8-CYLINDER DEMOLITION DERBY & 4 CYLINDER & MlNl-VAN DEMOLITION DERBY 
+Wednesday - 6 & 8 CYLINDER, 4 CYLINDER & MlNl-VAN & TRUCK DEMOLITION DERBY 
+
+EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 
 
 2023 SEASON RULES ALL CLASSES
 ************New for 2023************
-•	Compact SUV has been added to the 6 cylinder class.
+1.	Compact SUV has been added to the 6 cylinder class.
+   
 •	Mid size SUV has been added to the 8 cylinder class.
 •	Compact truck has been added to the minivan class.
 •	If your car is deemed out of rules. It was your decision to do so. Every effort has been made to condense and simplify the rules to make the build process understandable and easy.
