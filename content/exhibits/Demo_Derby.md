@@ -19,8 +19,8 @@ EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 ************New for 2023************
 1.	Compact SUV has been added to the 6 cylinder class.
    
-•	Mid size SUV has been added to the 8 cylinder class.
-•	Compact truck has been added to the minivan class.
+1.	Mid size SUV has been added to the 8 cylinder class.
+1.	Compact truck has been added to the minivan class.
 •	If your car is deemed out of rules. It was your decision to do so. Every effort has been made to condense and simplify the rules to make the build process understandable and easy.
 •	The Addison County Fair Demo Derby is a hometown fair event. Let’s keep it that way. Build your vehicle to the established tech & safety rules.
 •	If you want to build a vehicle & participate in a demo with a vehicle that has loaded frames, skid steer tires, railroad track for bumpers, high dollar built engines and transmissions, there are demo venues & promoters that run that example of vehicle in their events.
