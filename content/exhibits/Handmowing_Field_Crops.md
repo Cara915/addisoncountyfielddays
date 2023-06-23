@@ -1,5 +1,5 @@
 /*
-Title: Field Crops & Handmowing 
+Title: Field Crops 
 Description: Exibit information and entry rules for Field Crops & Handmowing at the Addison County Fair and Field Days.
 */
 
@@ -7,8 +7,9 @@ Description: Exibit information and entry rules for Field Crops & Handmowing at 
 
 
 # FIELD CROPS
+## NEW CROPS SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
 
-ENTRY DEADLINE: Monday before the fair - ALL Products in by 12:00 Noon
+ENTRY DEADLINE: Monday, August 7, 2023-All Products in by 12:00 noon
 
 ## Rules
 1. Limit one (1) entry in each class. All entries must be produced on the exhibitor’s farm.
