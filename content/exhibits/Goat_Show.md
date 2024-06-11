@@ -12,7 +12,7 @@ Description: Exibit information and entry rules
 1. Mail entries to: Janelle Ashley, 33 North Main Street, Whiting,
 VT 05778, Tel. 989-9528. 
 
-1. Entries must be returned by Friday, July 30, 2022. Enter each class online at https://sites.google.com/view/acffdgoatshow/home
+1. Entries must be returned by Friday, July 26, 2024. Enter each class online at https://sites.google.com/view/acffdgoatshow/home
 
 1. Exhibitors must provide their own feed and bedding. 
 Sawdust & straw is provided.
